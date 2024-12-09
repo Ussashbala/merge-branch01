@@ -1,7 +1,13 @@
 this is is txt file
 
-adding code alpha 
+adding code alpha in bala-b1
+
+this is bala-b1  branch
+
 
 ami je tomar shudu je tomar
 hu hu haa haaa
 meaw meaw   
+
+
+now add this with main
